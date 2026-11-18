@@ -1,0 +1,16 @@
+{
+    "headline": {
+        "atomic_facts": {
+            "pattern_induction": 1.0,
+            "rule_application": 0.8571
+        },
+        "block_summaries": {
+            "pattern_induction": 0.5,
+            "rule_application": 0.5714
+        },
+        "chained_notes": {
+            "pattern_induction": 0.5,
+            "rule_application": 0.7143
+        }
+    }
+}
